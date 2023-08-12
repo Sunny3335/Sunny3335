@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **web development and Data Structure & Algorithm**
 
-- 🌱 I’m currently learning **React.js,Redux,Node.js**
+- 🌱 I’m currently learning **React.js , Redux, Node.js**
 
 - 📫 How to reach me **sunnykumar2020has@gmail.com**
 
