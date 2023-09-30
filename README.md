@@ -1,4 +1,7 @@
-<h1 align="center">Hii 👋, I'm Sunny Kumar</h1>
+<h1 align="center">Hii 👋, I'm </h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Sunny3335/Animation_sun/591a8e19071c71539a53656aab5122ad29c24a25/name.svg" alt="Sunny Kumar " />
+</h1>
 <h3 align="center">Frontend developer & Problem Solver.</h3>
 
 - 🔭 I’m currently working on **Full Stack Development and Data Structure & Algorithm**
