@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development and Data Structure & Algorithm**
 
-- 🌱 I’m currently learning **React.js , Redux, Node.js**
+- 🌱 I’m currently learning **React.js , Redux, Node.js, MongoDB, Express.js**
 
 - 📫 How to reach me **sunnykumar2020has@gmail.com**
 
