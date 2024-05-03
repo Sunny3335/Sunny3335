@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">Frontend developer & Problem Solver.</h3>
 
-- 🔭 I’m currently working on **Full Stack Development and Data Structure & Algorithm**
+- 🔭 I’m currently working on **Full Stack Development & Data Structure & Algorithm**
 
 - 🌱 I’m currently learning **React.js , Redux, Node.js, MongoDB, Express.js**
 
